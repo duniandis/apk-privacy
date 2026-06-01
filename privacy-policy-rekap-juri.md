@@ -1,42 +1,98 @@
-KEBIJAKAN PRIVASI REKAP JURI
+# Kebijakan Privasi REKAP JURI
 
-Terakhir diperbarui: 01 Juni 2026
+**Terakhir diperbarui: 01 Juni 2026**
 
-Aplikasi Rekap Juri dibuat untuk membantu panitia dan koordinator juri dalam melakukan rekapitulasi hasil penilaian lomba burung berkicau.
+REKAP JURI adalah aplikasi yang dibuat untuk membantu panitia, korlap, dan koordinator juri dalam melakukan rekapitulasi hasil penilaian lomba burung berkicau secara lebih cepat dan akurat.
 
-1. Informasi yang Dikumpulkan
+## 1. Informasi yang Dikumpulkan
 
-Aplikasi tidak meminta pengguna membuat akun dan tidak mengumpulkan informasi pribadi seperti nama lengkap, alamat, nomor telepon, atau alamat email.
+Aplikasi REKAP JURI tidak mewajibkan pengguna membuat akun dan tidak mengumpulkan data pribadi seperti:
 
-Data yang dimasukkan pengguna seperti nama kelas, nama juri, nomor gantangan, hasil rekap, dan data juara disimpan secara lokal pada perangkat pengguna.
+* Nama lengkap
+* Alamat rumah
+* Nomor telepon
+* Email pengguna
+* Data identitas pribadi lainnya
 
-2. Iklan
+Data yang dimasukkan pengguna seperti:
 
-Aplikasi menggunakan Google AdMob untuk menampilkan iklan. Google dapat mengumpulkan informasi tertentu sesuai dengan Kebijakan Privasi Google untuk menayangkan dan mengukur efektivitas iklan.
+* Nama kelas
+* Nama juri
+* Nomor gantangan
+* Data rekap ajuan
+* Data juara dan point
 
-Informasi lebih lanjut dapat dilihat pada:
+disimpan secara lokal pada perangkat pengguna menggunakan database lokal aplikasi.
+
+## 2. Iklan
+
+Aplikasi menggunakan layanan iklan Google AdMob.
+
+Google dapat mengumpulkan informasi tertentu sesuai dengan kebijakan privasi Google untuk menampilkan dan mengukur efektivitas iklan.
+
+Informasi lebih lanjut mengenai kebijakan privasi Google dapat dilihat pada:
+
 https://policies.google.com/privacy
 
-3. Penyimpanan Data
+## 3. Penyimpanan Data
 
-Semua data lomba disimpan secara lokal pada perangkat pengguna menggunakan database lokal aplikasi.
+Seluruh data lomba disimpan secara lokal pada perangkat pengguna.
 
-4. Berbagi Data
+Pengembang tidak menerima, menyimpan, mengakses, maupun mengunggah data lomba pengguna ke server eksternal.
 
-Aplikasi menyediakan fitur ekspor dan berbagi data dalam format CSV melalui aplikasi pihak ketiga seperti WhatsApp. Data yang dibagikan sepenuhnya dikendalikan oleh pengguna.
+## 4. Berbagi Data
 
-5. Keamanan
+Aplikasi menyediakan fitur ekspor dan berbagi data dalam format CSV melalui aplikasi pihak ketiga seperti WhatsApp.
 
-Pengembang berupaya menjaga keamanan aplikasi, namun pengguna bertanggung jawab atas data yang dibagikan melalui aplikasi pihak ketiga.
+Data yang dibagikan sepenuhnya dikendalikan oleh pengguna dan hanya dikirim atas tindakan pengguna sendiri.
 
-6. Perubahan Kebijakan
+## 5. Koneksi Internet
 
-Kebijakan privasi ini dapat diperbarui sewaktu-waktu sesuai kebutuhan aplikasi.
+Aplikasi memerlukan koneksi internet aktif untuk menjalankan fitur iklan Google AdMob.
 
-7. Kontak
+Tanpa koneksi internet, aplikasi mungkin tidak dapat digunakan sebagaimana mestinya.
 
-Pengembang:
-CV BARAYA BATARA
+## 6. Izin Aplikasi
 
-Email:
-[cvbarayabatara@gmail.com](mailto:cvbarayabatara@gmail.com)
+Aplikasi dapat menggunakan izin berikut:
+
+### INTERNET
+
+Digunakan untuk:
+
+* Menampilkan iklan Google AdMob
+* Memeriksa koneksi internet
+
+### ACCESS_NETWORK_STATE
+
+Digunakan untuk:
+
+* Mengetahui status jaringan internet perangkat
+
+Aplikasi tidak meminta akses ke:
+
+* Kamera
+* Lokasi
+* Mikrofon
+* Kontak
+* SMS
+* Penyimpanan pribadi pengguna
+
+## 7. Keamanan Data
+
+Pengembang berupaya menjaga keamanan aplikasi, namun pengguna bertanggung jawab atas data yang dibagikan melalui aplikasi pihak ketiga seperti WhatsApp.
+
+## 8. Perubahan Kebijakan Privasi
+
+Kebijakan Privasi ini dapat diperbarui sewaktu-waktu untuk menyesuaikan perubahan fitur aplikasi maupun kebijakan Google Play.
+
+## 9. Kontak Pengembang
+
+**CV BARAYA BATARA**
+
+Email: [cvbarayabatara@gmail.com](mailto:cvbarayabatara@gmail.com)
+
+GitHub:
+https://github.com/duniandis
+
+Dengan menggunakan aplikasi REKAP JURI, pengguna dianggap telah membaca dan menyetujui Kebijakan Privasi ini.
